@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    background-image: url(apple_watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#clockInnerText {
+    font-family: "Source Code Pro", monospace;
+    text-align: center;
+    position: relative;
+    padding: 300px;
+}
